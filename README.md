@@ -1,1 +1,1 @@
-# fails-benchmarking
+# faiss-benchmarking
